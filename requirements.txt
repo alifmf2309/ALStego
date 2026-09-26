@@ -1,0 +1,12 @@
+# ALStego Toolkit - Requirements
+
+os
+zipfile
+time
+sys
+msvcrt
+socket
+urllib
+json
+uuid
+datetime
