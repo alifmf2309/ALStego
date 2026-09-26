@@ -56,16 +56,22 @@ Open a terminal or command prompt, then navigate to the cloned or extracted proj
 ## Documentation
 1. Language Menu
    > This is the initial menu. You must select the language you wish to use, but if you do not wish to continue, you can exit the program.
-<img width="741" height="381" alt="Language" src="https://github.com/user-attachments/assets/58d61701-128d-4cf8-a5a5-8a4b94b570b2" />
+<p align=center>
+  <img width="741" height="381" alt="Language" src="https://github.com/user-attachments/assets/58d61701-128d-4cf8-a5a5-8a4b94b570b2" />
+</p>
 
 #
 
 2. Indonesian Menu
    > The following is a display of the menu in Indonesian.
-<img width="741" height="381" alt="ID" src="https://github.com/user-attachments/assets/04999005-f66d-4d89-94c4-78e68c020705" />
+<p align=center>
+  <img width="741" height="381" alt="ID" src="https://github.com/user-attachments/assets/04999005-f66d-4d89-94c4-78e68c020705" />
+</p>
 
 #
 
 3. English Menu
    > The following is a display of the menu in English.
-<img width="741" height="381" alt="ENG" src="https://github.com/user-attachments/assets/5a86ee21-9d84-43f1-8c05-60cd1cd09b4b" />
+<p align=center>
+  <img width="741" height="381" alt="ENG" src="https://github.com/user-attachments/assets/5a86ee21-9d84-43f1-8c05-60cd1cd09b4b" />
+</p>
